@@ -12,9 +12,9 @@ class CSVGenerator:
 
     # Fetches data from database
     def fetch_data(self):
-            select_query = "SELECT * FROM Sales"
-            self.parser.cursor.execute(select_query)
-            self.result = self.parser.cursor.fetchall()
+        select_query = "SELECT * FROM Sales"
+        self.parser.cursor.execute(select_query)
+        self.result = self.parser.cursor.fetchall()
 
     # Generates CSV from dataframe
     def generate_csv(self):
