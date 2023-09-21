@@ -46,6 +46,6 @@ Your MySQL database and table will be ready for use, and it should appear like t
 
 ## Running the codes
 
-Execute the `xml_parser.py` script to parse XML data and upload it to a database. This script is responsible for parsing data from XML files and uploading it to a database.
+Execute the `xml_parser.py`. This script is responsible for parsing data from XML files and uploading it to a database.
 
 After successfully running `xml_parser.py`, run the `csv_gen.py` script. This script retrieves the data from the database and generates a CSV file named [data.csv](data.csv)
