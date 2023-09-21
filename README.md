@@ -1,6 +1,6 @@
 # XML File Parsing Project
 
-This Git repository demonstrates the process of parsing XML files, uploading data to database, and generating CSV file. It streamlines the task of working with XML data and converting it into CSV format.
+This Git repository contains two Python scripts that perform the tasks of parsing XML files, uploading data to a database, and generating CSV files. It streamlines the process of working with XML data and converting it into CSV format.
 
 ## Libraries
 
